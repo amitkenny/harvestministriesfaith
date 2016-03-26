@@ -3,4 +3,6 @@ Template.About.onRendered(function(){
 
     $('.parallax').parallax();
   
+  
+  $("img").unveil();
 })

@@ -28,5 +28,8 @@ Template.Home.onRendered(function(){
 	})
 	
 	$('.modal-trigger').leanModal();
+	
+	
+	$("img").unveil();
 
 })
